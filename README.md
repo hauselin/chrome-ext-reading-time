@@ -1,1 +1,3 @@
-# chrome-ext-reading-time
+# README
+
+README
